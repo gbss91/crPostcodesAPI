@@ -1,0 +1,28 @@
+{
+  "name": "crpostcodesapi",
+  "version": "1.0.0",
+  "description": "Costa Rican postcodes and towns API",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbss91/crPostcodesAPI.git"
+  },
+  "keywords": [
+    "postcodes",
+    "Costa",
+    "Rica"
+  ],
+  "author": "Gabriel Salas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbss91/crPostcodesAPI/issues"
+  },
+  "homepage": "https://github.com/gbss91/crPostcodesAPI#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
