@@ -1,11 +1,14 @@
 const express = require("express");
 const app = express();
-const port = 3000;
+const PORT = process.env.PORT || 3000;
 
-const postcodeRoutes = require("./routes/postcodes");
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
 
+// Route Middleware
+const postcodeRoutes = require("./routes/postcode");
 app.use("/postcode", postcodeRoutes);
 
-app.listen(port, () => {
-  console.log(`App listening on port ${port}`);
+app.listen(PORT, () => {
+  console.log(`App listening on port ${PORT}`);
 });

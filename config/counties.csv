@@ -1,0 +1,83 @@
+county_id,province_id,county_name
+1,1,San Jose
+2,1,Escazu
+3,1,Desamparados
+4,1,Puriscal
+5,1,Tarrazu
+6,1,Aserri
+7,1,Mora
+8,1,Goicoechea
+9,1,Santa Ana
+10,1,Alajuelita
+11,1,Vazquez de Coronado
+12,1,Acosta
+13,1,Tibas
+14,1,Moravia
+15,1,Montes de Oca
+16,1,Turrubares
+17,1,Dota
+18,1,Curridabat
+19,1,Perez Zeledon
+20,1,Leon Cortes Castro
+21,2,Alajuela
+22,2,San Ramon
+23,2,Grecia
+24,2,San Mateo
+25,2,Atenas
+26,2,Naranjo
+27,2,Palmares
+28,2,Poas
+29,2,Orotina
+30,2,San Carlos
+31,2,Zarcero
+32,2,Sarchi
+33,2,Upala
+34,2,Los Chiles
+35,2,Guatuso
+36,2,Rio Cuarto
+37,3,Cartago
+38,3,Paraiso
+39,3,La Union
+40,3,Jimenez
+41,3,Turrialba
+42,3,Alvarado
+43,3,Oreamuno
+44,3,El Guarco
+45,4,Heredia
+46,4,Barva
+47,4,Santo Domingo
+48,4,Santa Barbara
+49,4,San Rafael
+50,4,San Isidro
+51,4,Belen
+52,4,Flores
+53,4,San Pablo
+54,4,Sarapiqui
+55,5,Liberia
+56,5,Nicoya
+57,5,Santa Cruz
+58,5,Bagaces
+59,5,Carrillo
+60,5,Cañas
+61,5,Abangares
+62,5,Tilaran
+63,5,Nandayure
+64,5,La Cruz
+65,5,Hojancha
+66,6,Puntarenas
+67,6,Esparza
+68,6,Buenos Aires
+69,6,Montes de Oro
+70,6,Osa
+71,6,Quepos
+72,6,Golfito
+73,6,Coto Brus
+74,6,Parrita
+75,6,Corredores
+76,6,Garabito
+77,7,Limon
+78,7,Pococi
+79,7,Siquirres
+80,7,Talamanca
+81,7,Matina
+82,7,Guacimo
