@@ -58,7 +58,6 @@ const allByProvince = (req, res) => {
       }
     });
 };
-
 // List all postcodes by county
 const allByCounty = (req, res) => {
   const { province, county } = req.query;
